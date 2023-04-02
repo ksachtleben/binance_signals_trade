@@ -1,5 +1,5 @@
 # Crypto Signals Bot README
-This trading algorithm is designed to provide trade signals and can also be used for backtesting. The trading algorithm is still under testing, specifically for stop-loss and take-profit positions. If you have any questions or are interested in contributing, please feel free to contact us.
+This trading algorithm is designed to provide trade signals and can also be used for backtesting. The trading algorithm for stock market tradind (buy-in-hold) and future market trading (open long and short positions) is still under testing, specifically for stop-loss and take-profit positions. If you have any questions or are interested in contributing, please feel free to contact us.
 
 ## Features
 Real-time data fetching from the Binance API.
