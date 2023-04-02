@@ -1,5 +1,5 @@
 # Crypto Signals Bot README
-This Crypto Signals Bot is a Python-based application that uses the Binance API to automate cryptocurrency trading. It fetches real-time data, analyzes it, and makes trading decisions based on various strategies like EMA crossover, Fibonacci retracement levels, and more. The bot supports multiple cryptocurrencies and can be easily customized to fit your trading preferences.
+This trading algorithm is designed to provide trade signals and can also be used for backtesting. The trading algorithm is still under testing, specifically for stop-loss and take-profit positions. If you have any questions or are interested in contributing, please feel free to contact us.
 
 ## Features
 Real-time data fetching from the Binance API.
@@ -32,3 +32,4 @@ This Crypto Trading Bot is for educational purposes only. The user assumes all r
 
 ## License
 This project is licensed under the MIT License.
+
