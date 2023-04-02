@@ -21,6 +21,7 @@ Customize the `symbolsList` variable with the cryptocurrencies you want to trade
 Run the `main.py` script in your terminal or command prompt.
 The bot will fetch real-time data for the specified cryptocurrencies and analyze it using the implemented trading strategies.
 The bot will make trading decisions based on the analysis and execute trades accordingly.
+It is possible to check the future trading market changing the `order_url` to `https://fapi.binance.com/fapi/v1/order`
 Real-time visualization of trading data will be displayed using Plotly.
 ## Customization
 To change the trading interval, modify the `intervalList` variable in the source code. The available intervals are: '1m', '3m', '5m', '15m', '30m', '1h', '2h', '4h', '1d', '1w', and '1m'.
